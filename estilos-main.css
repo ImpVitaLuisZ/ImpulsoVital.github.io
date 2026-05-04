@@ -1,0 +1,84 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+
+
+.hero {
+  background-image: url(img/impulsovitaltodo.png);
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  color: white;
+}
+
+.heroservicios {
+  background-image: url(img/fondoservicios1.png);
+  background-size: cover;
+  background-position: center;
+  height: 30vh;
+  color: white;
+}
+
+.heroentrenamiento{
+   background-image: url(img/entrenamiento2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 60vh; 
+  
+}
+
+.heroingles{
+   background-image: url(img/servicioingles.png);
+  background-size: cover;
+  background-position: center;
+  height: 60vh; 
+  }
+
+  .heroprestamos{
+   background-image: url(img/prestamosback2.png);
+  background-size: cover;
+  background-position: center;
+  height: 60vh; 
+  }
+
+    .herowebsites{
+   background-image: url(img/websitesback.png);
+  background-size: cover;
+  background-position: center;
+  height: 60vh; 
+  }
+
+.icon-circle {
+  width: 90px;
+  height: 90px;
+}
+
+.bg-orange {
+  background-color: #fd7e14;
+}
+
+.btn-orange {
+  background-color: #fd7e14;
+  color: white;
+  border: 1px solid #fd7e14;
+}
+
+.btn-orange:hover {
+  background-color: #e96b08;
+  color: white;
+}
+
+.text-orange {
+  color: #fd7e14 !important;
+}
+
+.movimiento {
+  transition: all 0.3s ease;
+}
+
+.movimiento:hover {
+  background-color: #e3f2fd; 
+  color: #0d47a1;             
+}
